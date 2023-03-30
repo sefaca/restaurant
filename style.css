@@ -50,6 +50,7 @@ nav {
 
 .main-nav li {
     list-style: none;
+    width: 140px;
 }
 
 .main-nav a {
@@ -171,7 +172,7 @@ footer {
     } */
 
     .main-nav.open{
-        right: -1%;
+        right: -15%;
     }
 
     .menu-responsive {
